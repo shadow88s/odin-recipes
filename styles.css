@@ -1,0 +1,44 @@
+body{
+}
+h1{
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    font-size: 100px;
+    padding-top: 150px;
+    font-family: FuturaPT, helvetica, sans-serif;
+    -webkit-text-stroke-width: 2px;
+    -webkit-text-stroke-color: orange;
+}
+.nav-list{
+    text-align: center;
+    list-style-type: none;
+}
+
+.nav-list li{
+    margin: 10px;
+}
+
+img {
+    width:500px;
+    padding-left: 555px;
+}
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+a{
+    color:orange;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: FuturaPT, helvetica, sans-serif;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black;
+}
